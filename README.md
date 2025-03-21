@@ -1,7 +1,7 @@
 # Useful-Scripts-Qualys-&-TenableIO
 Collection of Useful Scripts To Automate Some Basic Tasks In Qualys, Tenable IO
-<br> Bulk-Asset-Group-Creation-Via-QualysAPI.py - Automatically creates asset groups in bulk with CSV Inputs.
-<br> Bulk-Removal-Remediation-Tickets-Via-QualysAPI.py - Removing 20000 Remediation tickets at once, from the UI you are limited to 500.
+<br> *Bulk-Asset-Group-Creation-Via-QualysAPI.py - Automatically creates asset groups in bulk with CSV Inputs.
+<br> *Bulk-Removal-Remediation-Tickets-Via-QualysAPI.py - Removing 20000 Remediation tickets at once, from the UI you are limited to 500.
 
 # Usage
 <br> python Bulk-Asset-Group-Creation-Via-QualysAPI.py
